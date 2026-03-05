@@ -49,7 +49,7 @@ padding-top:80px;
 /* Headline */
 
 .headline{
-
+display: none; 
 font-size:clamp(2rem,4vw,3rem);
 font-weight:600;
 
