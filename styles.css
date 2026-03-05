@@ -1,10 +1,10 @@
 /* ---- Minimal Nature Palette ---- */
 :root{
-  --bg: #f3f1ea;        /* warmes Off-White */
-  --text: #1f2a24;      /* dunkles Waldgrün */
+  --bg: #2f2f2f;        /* warmes Off-White */
+  --text: #fff3dd;      /* dunkles Waldgrün */
   --muted: #5b6b61;     /* gedämpftes Grün-Grau */
   --card: #ebe7dc;      /* sandig */
-  --accent: #3b5a46;    /* Moosgrün */
+  --accent: #edac69;    /* Moosgrün */
   --accent-2: #b7a77a;  /* gedecktes Ocker */
 }
 
