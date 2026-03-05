@@ -23,7 +23,7 @@ box-sizing:border-box;
 body{
 
 background:var(--bg);
-font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+font-family:system-ui,-apple-system,BlinkMacSystemFont,"Georgia",Georgia,serif;
 color:var(--text);
 
 display:flex;
